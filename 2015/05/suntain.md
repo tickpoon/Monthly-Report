@@ -12,13 +12,13 @@
 
 * [벨누르고 튀기](http://cafe.naver.com/minecraftpe/2249541)
 
- ![거미랑 무엇을?.jpg](http://m.cafe.naver.com/ImageView.nhn?clubid=23683173&imageUrl=http%3A%2F%2Fmcafethumb2.phinf.naver.net%2F20150515_277%2Fja4095_1431696362554grnC1_JPEG%2F740_Screenshot_2015-05-15-21-58-06.jpg%3Ftype%3Dw740)
+ ![거미랑 무엇을?.jpg](http://mcafethumb2.phinf.naver.net/20150515_277/ja4095_1431696362554grnC1_JPEG/740_Screenshot_2015-05-15-21-58-06.jpg?type=w740)
 
-## 짜르지마세요
+## 아직 할말이 남아있다구요!
 
 
 ```
 
-ㅁㄴㅇㄹ
+짜르지마세요
 
 ```
