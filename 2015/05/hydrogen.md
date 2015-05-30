@@ -18,5 +18,5 @@
 ## 하고싶은 말
 
 ```
-[Clash of Clans] 유닛
+Clash of Clans 유닛
 ```
