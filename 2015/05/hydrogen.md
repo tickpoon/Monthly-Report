@@ -1,7 +1,7 @@
 |   종류  |  갯수  |
 | :---:  | :---: |
-| 모델링  | 2 |
-| 인공지능 | 1 |
+| 모델링  | 3 |
+| 인공지능 | 2 |
 | 혼합 | 0 |
 ## 자이언트
 * ![Giant1,2](http://i.imgur.com/yfELW45.png)
@@ -14,6 +14,9 @@
 * ![Golem1,2](http://i.imgur.com/xfn2bYw.png)
 * ![Golem3,4](http://i.imgur.com/In54sgY.png)
 * ![Golem5](http://i.imgur.com/2lwE4wd.png)
+
+## 마녀
+* ![Witch1,2](http://i.imgur.com/WZATuSG.png)
 
 ## 하고싶은 말
 
